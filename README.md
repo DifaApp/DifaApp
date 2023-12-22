@@ -12,12 +12,12 @@
    This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
    Program.
     <br />
-    <a href="https://github.com/DifaApp"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/document/d/1rprA--jp16v7KTmPdvtAMcazYzfeCDyErdVm0oMtP3U/edit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DifaApp">View Demo</a>
+    <a href="https://youtu.be/pOAWBpWwvy4">View Demo</a>
     ·
-    <a href="https://github.com/DifaApp">Report Bug</a>
+    <a href="https://bit.ly/Slides_Difa">Slide Pressentation</a>
     ·
     <a href="https://github.com/DifaApp/issues">Request Feature</a>
   </p>
@@ -64,7 +64,7 @@ With this application, we hope that there will be no more bullying that happens 
 
 ### Installation
 
-1. Download Guifena Application [Download](https://github.com/bangkit-cap0423/Guifena/releases/tag/v1.0.0)
+1. Download Guifena Application [Download](https://drive.google.com/drive/folders/1vidLtpc_VzO0H7Hc_ZkbFO4pSXJy7eoA?usp=sharing)
 2. Install on your Android devices.
 3. Sign Up using Google Accoun or create new account
 4. Sing In and home will displayed the main content 
@@ -80,7 +80,7 @@ With this application, we hope that there will be no more bullying that happens 
 | Name | Bangkit ID | Role |Github Profile |
 | ------ | ------ | ------ | ------ |
 Fikri Pratama AL Fajri | M156BSY1128 | ML & PM | https://github.com/ichigoseira 
-Alfariza Ramadha | M229BSY1480 | ML | https://github.com/Alfariza123 
+Alfariza Ramadhan | M229BSY1480 | ML | https://github.com/Alfariza123 
 Farian Halim Wicaksono | M121BSY0941 | ML | https://github.com/lieutenantcolonenwar2
 Muhammad Nabil Hatami | C274BSY3350 | CC | https://github.com/nabilhatami86
 Reynaldi Gunawan | C274BSY3687 | CC | https://github.com/B1N0Y 
