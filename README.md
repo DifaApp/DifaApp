@@ -79,7 +79,7 @@ With this application, we hope that there will be no more bullying that happens 
 
 | Name | Bangkit ID | Role |Github Profile |
 | ------ | ------ | ------ | ------ |
-Fikri Pratama AL Fajri | M156BSY1128 | ML & PM | https://github.com/ichigoseira 
+Fikri Pratama AL Fajri | M156BSY1128 | ML & PM | https://github.com/FxFirst 
 Alfariza Ramadhan | M229BSY1480 | ML | https://github.com/Alfariza123 
 Farian Halim Wicaksono | M121BSY0941 | ML | https://github.com/lieutenantcolonenwar2
 Muhammad Nabil Hatami | C274BSY3350 | CC | https://github.com/nabilhatami86
